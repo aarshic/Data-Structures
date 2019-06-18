@@ -1,0 +1,26 @@
+Given a number having only one ‘1’ and all other ’0’s in its binary representation, find position of the only set bit. If there is only one '1' bit then print that position else print -1. Position of  set bit '1' should be counted starting with 1 from LSB side in binary representation of the number.
+
+Input:
+
+The first line of input contains an integer T denoting the number of test cases.
+The first line of each test case is N.
+
+Output:
+
+Print the position if there is only one '1' bit, else print -1. For each test case print the output in a new line.
+
+Constraints:
+
+1 ≤ T ≤ 100
+1 ≤ N ≤ 100000000
+
+Example:
+
+Input
+2
+2
+5
+
+Output
+2
+-1
